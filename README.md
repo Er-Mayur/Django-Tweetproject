@@ -6,6 +6,10 @@ Built with **Django**, **Bootstrap**, and supports **image uploads** for posts.
 
 <p align="center">
   <img src="screenshots/01-home.png" alt="Home page – list of tweets" width="600" />
+  <img src="screenshots/02-register.png" alt="Home page – list of tweets" width="600" />
+  <img src="screenshots/03-login.png" alt="Home page – list of tweets" width="600" />
+  <img src="screenshots/04-create.png" alt="Home page – list of tweets" width="600" />
+  <img src="screenshots/05-edit-delete.png" alt="Home page – list of tweets" width="600" />
 </p>
 
 ---
