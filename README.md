@@ -1,4 +1,4 @@
-# 🐦 Django TweetProject (Twitter Clone)
+# 🐦 Django TweetProject
 
 A simple **Django CRUD application** inspired by Twitter.  
 It allows users to register, log in, and create, update, delete, and view posts ("tweets").  
